@@ -1,0 +1,4 @@
+python-dotenv
+azure-common
+azure-mgmt-resource
+azure-mgmt-datafactory
